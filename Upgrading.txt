@@ -1,0 +1,26 @@
+
+1. If you are upgrading bf2statistics from a previous version, Make sure you replace the OLD ASP and PYTHON files with the new ones. There are many
+    changes to the way snapshots are built and read from the backend so the old asp and python files WILL NOT WORK. Also, Old snapshot files will
+    not import correctly with the new ASP due to these changes... you have been warned ;)
+    
+2. Once you have replaced all of your ASP files, go ahead and open it up and login. If you get an error saying "You are NOT Authorised to access this 
+    Page! (Ip: '...')", then you need to add your Ip address to the config file manually before continueing... Open the config.php file ( ASP/system/config/ ), 
+    Look for "$admin_hosts = array( ... )" add your servers IP address to that list... make sure to follow the format (EI: add a comma and put the IP in 
+    quotes).
+    
+3. Open the "System" navigation pane, and click "Edit Configuration". Edit the DB settings to match your bf2stats database.
+
+4. Return the the Dashboard, and you should now see the Navigation link to "Upgrade Database". Make sure you have a backup of your current DB before 
+    continuing!
+    
+5. Confirm the Upgrade.
+
+6. Next, Click "Test System". Confirm the test and review the result for any errors :)
+
+NOTE: Make sure you replace your servers python folder! the old python files will not work with 1.5.0!
+
+
+// **************************************************************
+// Referances and Help
+
+	If you have any issues... Please refer to the BF2statistics forums please (bf2statistics.com)

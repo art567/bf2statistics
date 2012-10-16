@@ -1,17 +1,12 @@
-bf2statistics
-=============
-
-The ultimate bf2 stats system!
-
 Bf2statistics Installation guide Written by wilson212
 
-References:
+Referances:
 www.bf2statistics.com
 
 // **************************************************************
 // Intro
 
-  	Welcome and thank you for downloading BF2statistics Official version 1.5.0! This BF2stats system was written by Chump, MrNiceGuy,
+		Welcome and thank you for downloading BF2statistics Official version 1.5.0! This BF2stats system was written by Chump, MrNiceGuy,
 	The shadow, and many more. All i have done is take BF2statistics 1.4.2, and added many fixes that myself and many others have pushed in the
 	forums, As well as Re-write the entire ASP. I donot take all credit for these fixes, and I certainly donot take credit for writting 
     any of the original BF2statistics scripts.
