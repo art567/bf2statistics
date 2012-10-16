@@ -5,7 +5,7 @@ The ultimate bf2 stats system!
 
 Bf2statistics Installation guide Written by wilson212
 
-Referances:
+References:
 www.bf2statistics.com
 
 // **************************************************************
